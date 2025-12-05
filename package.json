@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dev-vinipontes.github.io/PortfolioWeb/",
   "dependencies": {
     "@radix-ui/react-navigation-menu": "^1.2.14",
     "@testing-library/dom": "^10.4.1",
@@ -38,6 +39,8 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ]  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
