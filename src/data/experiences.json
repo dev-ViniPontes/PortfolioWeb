@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "position": "Desenvolvedor Software",
+    "company": "Cronos Software",
+    "duration": "Junho 2021 - Presente",
+    "startDate": "2023-06-14",
+    "endDate": null,
+    "location": "Manaus, AM",
+    "current": true,
+    "description": "Desenvolvimento de aplicações web escaláveis, incluindo sisteamas PWA, Apis e automações, garantindo soluções eficientes e integradas para otimizar processos e gerar valor para a empresa",
+    "achievements": [
+      "Desenvolvi um sistema completo para controle de produção industrial, automatizando o apontamento de produção por meio de sensores conectados a máquinas e integrados a um dispositivo Odroid rodando Linux. Desenvolvi uma aplicação em Python que coleta os sinais dos sensores e armazena os dados em banco, além de implementar um monitor touch conectado ao Odroid, permitindo ao usuário registrar refugos e paradas de produção manualmente. O sistema também detecta pausas inesperadas e insere automaticamente paradas no registro.",
+      "Paralelamente, criei um Progressive Web App (PWA) responsivo, que possibilita o acompanhamento dos dados de produção diretamente pelo smartphone, oferecendo as mesmas funcionalidades do sistema rodando no Odroid.",
+      "Também desenvolvi um sistema web responsivo integrado ao ERP Cronos, que permite autorizar pedidos de compra e venda, visualizar relatórios de estoque e faturamento, cadastrar pedidos, gerar orçamentos e monitorar a produção, entre outras funcionalidades. Para isso, criei APIs RESTful utilizando Flask e implementei automações para monitorar o funcionamento das APIs e aplicações, facilitando a resolução de problemas e o suporte às diversas empresas atendidas.",
+      "Por ter iniciado esses projetos, atualmente dedico-me a expandir suas funcionalidades, incluindo o mapeamento detalhado do status dos pedidos com rastreamento de entrega. Isso permite acompanhar cada etapa do processo dentro da empresa, bem como monitorar a entrega até o cliente final, garantindo maior controle e visibilidade operacional."
+    ],
+    "technologies": [
+      "C#",
+      "ReactJS",
+      "Python",
+      "Flask",
+      "MySQL",
+      "SqlServer",
+      "PostgreSQL"
+    ],
+    "type": "Tempo Integral"
+  }
+]

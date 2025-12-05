@@ -1,0 +1,25 @@
+{
+  "name": "Vinícius Pontes",
+  "title": "Desenvolvedor Full Stack",
+  "email": "viniciuspontesfx058@gmail.com",
+  "phone": "(92) 99510-8088",
+  "location": "Manaus, Brasil",
+  "education": [
+    {
+      "degree": "Bacharelado em Sistemas de Informação",
+      "institution": "Faculdade Metropolitana de Manaus - Fametro",
+      "year": "2020-2023",
+      "description": "Formação focada no desenvolvimento, gestão e integração de soluções tecnológicas dentro de organizações. Abrange análise de requisitos, arquitetura de sistemas, programação, bancos de dados, infraestrutura, segurança da informação e gestão de projetos. O curso prepara para identificar problemas reais, tranformar dados em informação útil e construir sistemas eficientes que apoiam processos e decisões empresariais"
+    }
+  ],
+  "skills": [
+    "ReactJS", "Python", "REST APIs", "SQLServer", "MongoDB", "PostgreSQL", "Git", "TypeScript"
+  ],
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/v.grego.p/",
+    "linkedin": "https://www.linkedin.com/in/vinicius-gabriel-022a12278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "github": "https://github.com/dev-ViniPontes",
+    "email": "https://mail.google.com/mail/?view=cm&to=viniciuspontesfx058@gmail.com"
+  },
+  "description": "Desenvolvedor apaixonado por transformar ideias em soluções eficientes e modernas. Sempre em busca de novas tecnologias e boas práticas para construir produtos de alta qualidade."
+}

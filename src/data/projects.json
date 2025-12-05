@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce Platform",
+    "description": "Plataforma de e-commerce completa com React, Node.js e MongoDB. Inclui sistema de pagamentos, gestão de inventário e dashboard administrativo.",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe", "AWS"],
+    "liveUrl": "https://meuecommerce-demo.com",
+    "githubUrl": "https://github.com/seuusuario/ecommerce-platform",
+    "image": "https://via.placeholder.com/400x250/1a1a1a/00ff88?text=E-commerce",
+    "featured": true,
+    "duration": "3 meses"
+  },
+  {
+    "id": 2,
+    "title": "Dashboard Analytics",
+    "description": "Dashboard interativo para visualização de dados com gráficos em tempo real e relatórios customizáveis.",
+    "technologies": ["React", "TypeScript", "Chart.js", "Python", "PostgreSQL"],
+    "liveUrl": "https://dashboard-demo.com",
+    "githubUrl": "https://github.com/seuusuario/analytics-dashboard",
+    "image": "https://via.placeholder.com/400x250/1a1a1a/ff0080?text=Analytics",
+    "featured": true,
+    "duration": "2 meses"
+  },
+  {
+    "id": 3,
+    "title": "Mobile App - Task Manager",
+    "description": "Aplicativo mobile para gestão de tarefas com React Native, sincronização em tempo real e notificações push.",
+    "technologies": ["React Native", "Firebase", "Redux", "Push Notifications"],
+    "liveUrl": "https://taskmanager-app.com",
+    "githubUrl": "https://github.com/seuusuario/task-manager",
+    "image": "https://via.placeholder.com/400x250/1a1a1a/0088ff?text=Task+Manager",
+    "featured": false,
+    "duration": "4 meses"
+  },
+  {
+    "id": 4,
+    "title": "API Gateway",
+    "description": "Sistema de API Gateway com autenticação, rate limiting e monitoramento para microsserviços.",
+    "technologies": ["Node.js", "Express", "Redis", "Docker", "Kubernetes"],
+    "liveUrl": "https://api-gateway-demo.com",
+    "githubUrl": "https://github.com/seuusuario/api-gateway",
+    "image": "https://via.placeholder.com/400x250/1a1a1a/ffff00?text=API+Gateway",
+    "featured": false,
+    "duration": "1.5 meses"
+  }
+]
